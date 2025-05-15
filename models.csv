@@ -1,8 +1,8 @@
-﻿path,name
-./models/model02.glb,土師器
-./models/model04.glb,緑釉陶器
-./models/model09.glb,灯明皿
-./models/model11.glb,須恵器
-./models/model12.glb,暗文土器
-./models/model14.glb,須恵器（蓋）
-https://echizencity.github.io/opendata/kokufuhakkutsu/00101_kokufuhakkutsu_small.glb,遺構2023
+﻿path,name,description,url
+./models/model02.glb,土師器,区画溝から土師器のお椀が出土している。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./models/model04.glb,緑釉陶器,盤に三つの足がついた器種。愛知県にある猿投窯で作られたもの。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./models/model09.glb,灯明皿,土師皿。皿の縁に炭化物が付着しており、灯明皿として使われていたものと思われる。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./models/model11.glb,須恵器,1200度の高温で焼成して作られた器。高台のつかない身と、つまみのある蓋がほぼ完形の状態で出土した。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./models/model12.glb,暗文土器,内外面をヘラで磨いている土師器。金属器を模しているもの,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./models/model14.glb,須恵器（蓋）,白色の須恵器。通常より焼きが甘あったため、灰色ではなく白色に仕上がっている。完形で出土。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+https://echizencity.github.io/opendata/kokufuhakkutsu/00101_kokufuhakkutsu_small.glb,遺構2023,令和5年度（2023年度）に本興寺境内（国府1丁目地係）で実施した越前国府跡発掘調査では、平安時代の遺構が検出されました。特に、幅2m50cmの溝は国府に関連する官衙施設の区画溝の可能性があり、越前国府の所在地解明の足掛かりとなる成果になりました。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
